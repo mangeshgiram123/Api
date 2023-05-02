@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "coe-org",
+        "projectKey": "mangeshgiram123_Api"
+    }
+}
