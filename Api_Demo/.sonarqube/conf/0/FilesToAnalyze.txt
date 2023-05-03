@@ -1,0 +1,10 @@
+﻿C:\Users\Mangesh.giram\Desktop\Api\Api_Demo\Controllers\WeatherForecastController.cs
+C:\Users\Mangesh.giram\Desktop\Api\Api_Demo\Program.cs
+C:\Users\Mangesh.giram\Desktop\Api\Api_Demo\WeatherForecast.cs
+C:\Users\Mangesh.giram\Desktop\Api\Api_Demo\obj\Debug\net7.0\Api_Demo.GlobalUsings.g.cs
+C:\Users\Mangesh.giram\Desktop\Api\Api_Demo\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+C:\Users\Mangesh.giram\Desktop\Api\Api_Demo\obj\Debug\net7.0\Api_Demo.AssemblyInfo.cs
+C:\Users\Mangesh.giram\Desktop\Api\Api_Demo\obj\Debug\net7.0\Api_Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mangesh.giram\Desktop\Api\Api_Demo\appsettings.Development.json
+C:\Users\Mangesh.giram\Desktop\Api\Api_Demo\appsettings.json
+C:\Users\Mangesh.giram\Desktop\Api\Api_Demo\Properties\launchSettings.json

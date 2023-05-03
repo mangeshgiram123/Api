@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
+  <AnalysisConfigPath>C:\Users\Mangesh.giram\Desktop\Api\Api_Demo\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <ProjectPath>C:\Users\Mangesh.giram\Desktop\Api\Api_Demo\Api_Demo.csproj</ProjectPath>
+  <FilesToAnalyzePath>C:\Users\Mangesh.giram\Desktop\Api\Api_Demo\.sonarqube\conf\0\FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>C:\Users\Mangesh.giram\Desktop\Api\Api_Demo\.sonarqube\out\0</OutPath>
+  <ProjectType>Product</ProjectType>
+  <TargetFramework>net7.0</TargetFramework>
+</SonarProjectConfig>
